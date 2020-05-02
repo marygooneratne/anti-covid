@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css?family=DM+Sans&display=swap');
 .App {
   text-align: center;
 }
@@ -27,7 +29,9 @@
 .App-link {
   color: #61dafb;
 }
-
+p {
+  font-family: 'DM Sans'
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
